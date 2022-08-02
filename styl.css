@@ -1,0 +1,23 @@
+body
+{
+	background-color: navy;
+	color: silver;
+}
+hr
+{
+	background-color: yellow;
+	width: 100%;
+	height: 10px;
+}
+#XD
+{
+	width: 100px;
+	height: 100px;
+}
+#menu
+{
+	width: 100%;
+	height: 100px;
+	background-color: grey;
+	color: navy;
+}
