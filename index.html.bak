@@ -34,7 +34,37 @@ twoje guwno xd i tam zyje i ma pice sikic</p><img src="zdj/scieki.jpg">
 by połknołjak nuz lub kosc</p><img src="zdj/wytepienie.jpg">
 
 
+<div id="klasa">
 
+<script type="text/javascript">
+
+var mojaZmienna = "Nazywam sie Gabryś ";
+
+document.write(mojaZmienna + "</br>");
+
+for(var num=2; num<11; num++)
+{
+	document.write(mojaZmienna + num + "</br>");
+}
+var wynik;
+for(var num=0; num<11; num++)
+{
+	for(var num2=0; num2<11; num2++)
+	{
+		wynik=num*num2;
+		document.write(wynik + " ");
+	}
+	document.write("</br>");
+}
+
+for(var num2=0; num2<112; num2++)
+	{
+		document.write(" <img src='zdj/wygląd edka.jpg'>");
+	}
+
+</script>
+
+</div>
 
 
 
